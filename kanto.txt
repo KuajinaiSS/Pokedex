@@ -1,0 +1,151 @@
+1, Bulbasaur, Basico, Planta, Veneno
+2, Ivysaur, Primera Evolucion, Bulbasaur, Planta, Veneno
+3, Venusaur, Segunda Evolucion, Bulbasaur, Planta, Veneno
+4, Charmander, Basico, Fuego, Fuego
+5, Charmeleon, Primera Evolucion, Charmander, Fuego, Fuego
+6, Charizard, Segunda Evolucion, Charmander, Fuego, Volador
+7, Squirtle, Basico, Agua, Agua
+8, Wartortle, Primera Evolucion, Squirtle, Agua, Agua
+9, Blastoise, Segunda Evolucion, Squirtle, Agua, Agua
+10, Caterpie, Basico, Insecto, Insecto
+11, Metapod, Primera Evolucion, Caterpie, Insecto, Insecto
+12, Butterfree, Segunda Evolucion, Caterpie, Insecto, Volador
+13, Weedle, Basico, Insecto, Insecto
+14, Kakuna, Primera Evolucion, Weedle, Insecto, Insecto
+15, Beedrill, Segunda Evolucion, Weedle, Insecto, Volador
+16, Pidgey, Basico, Normal, Volador
+17, Pidgeotto, Primera Evolucion, Pidgey, Normal, Volador
+18, Pidgeot, Segunda Evolucion, Pidgey, Normal, Volador
+19, Rattata, Basico, Raticate, Normal, Normal
+20, Raticate, Primera Evolucion, Rattata, Normal, Normal
+133, Eevee, Basico, Normal, Normal 
+134, Vaporeon, Primera Evolucion, Eevee, Agua, Agua
+135, Jolteon, Primera Evolucion, Eevee, Electrico, Electrico
+136, Flareon, Primera Evolucion, Eevee, Fuego, Fuego
+115, Kangaskhan, Basico, Normal, Normal
+21, Spearow, Basico, Normal, Volador
+22, Fearow, Primera Evolucion, Spearow, Normal, Volador
+23, Ekans, Basico, Veneno, Veneno
+24, Arbok, Primera Evolucion, Ekans, Veneno, Veneno
+25, Pikachu, Basico, Electrico, Electrico
+26, Raichu, Primera Evolucion, Pikachu, Electrico, Electrico
+27, Sandshrew, Basico, Tierra, Tierra
+28, Sandslash, Primera Evolucion, Sandshrew, Tierra, Tierra
+29, Nidoran♀, Basico, Veneno, Veneno
+30, Nidorina, Primera Evolucion, Nidoran♀, Veneno, Veneno
+31, NidoQueen, Segunda Evolucion, Nidoran♀, Veneno, Tierra
+32, Nidoran♂, Basico, Veneno, Veneno
+33, Nidorino, Primera Evolucion, Nidoran♂, Veneno, Veneno
+34, NidoKing, Segunda Evolucion, Nidoran♂, Veneno, Tierra
+35, Clefairy, Basico, Normal, Normal
+36, Clefable, Primera Evolucion, Clefairy, Normal, Normal
+37, Vulpix, Basico, Fuego, Fuego
+38, Ninetales, Primera Evolucion, Vulpix, Fuego, Fuego
+39, Jigglypuff, Basico, Normal, Normal
+40, Wigglytuff, Primera Evolucion, Jigglypuff, Normal, Normal
+41, Zubat, Basico, Veneno, Volador
+42, Golbat, Primera Evolucion, Zubat, Veneno, Volador
+43, Oddish, Basico, Planta, Veneno
+44, Gloom, Primera Evolucion, Oddish, Planta, Veneno
+45, Vileplume, Segunda Evolucion, Oddish, Planta, Veneno
+46, Paras, Basico, Insecto, Planta
+47, Parasect, Primera Evolucion, Paras, Insecto, Planta
+48, Venonat, Basico, Insecto, Veneno
+49, Venomoth, Primera Evolucion, Venonat, Insecto, Veneno
+50, Diglett, Basico, Tierra, Tierra
+51, Dugtrio, Primera Evolucion, Diglett, Tierra, Tierra
+52, Meowth, Basico, Normal, Normal
+53, Persian, Primera Evolucion, Meowth, Normal, Normal
+54, Psyduck, Basico, Agua, Agua
+55, Golduck, Primera Evolucion, Psyduck, Agua, Agua
+56, Mankey, Basico, Lucha, Lucha
+57, Primeape, Primera Evolucion, Mankey, Lucha, Lucha
+58, Growlithe, Basico, Fuego, Fuego
+59, Arcanine, Primera Evolucion, Growlithe, Fuego, Fuego
+60, Poliwag, Basico, Agua, Agua
+61, Poliwhirl, Primera Evolucion, Poliwag, Agua, Agua
+62, Poliwrath, Segunda Evolucion, Poliwag, Agua, Lucha
+63, Abra, Basico, Psiquico, Psiquico
+64, Kadabra, Primera Evolucion, Abra, Psiquico, Psiquico
+65, Alakazam, Segunda Evolucion, Abra, Psiquico, Psiquico
+66, Machop, Basico, Lucha, Lucha
+67, Machoke, Primera Evolucion, Machop, Lucha, Lucha
+68, Machamp, Segunda Evolucion, Machop, Lucha, Lucha
+69, Bellsprout, Basico, Planta, Veneno
+70, Weepinbell, Primera Evolucion, Bellsprout, Planta, Veneno
+71, Victreebel, Segunda Evolucion, Bellsprout, Planta, Veneno
+72, Tentacool, Basico, Agua, Venneno
+73, Tentacruel, Primera Evolucion, Tentacool, Agua, Veneno
+74, Geodude, Basico, Roca, Tierra
+75, Graveler, Primera Evolucion, Geodude, Roca, Tierra
+76, Golem, Segunda Evolucion, Geodude, Roca, Tierra
+77, Ponyta, Basico, Fuego, Fuego
+78, Rapidash, Primera Evolucion, Ponyta, Fuego, Fuego
+79, Slowpoke, Basico, Agua, Psiquico
+80, Slowbro, Primera Evolucion, Slowpoke, Agua, Psiquico
+81, Magnemite, Basico, Electrico, Electrico
+82, Magneton, Primera Evolucion, Magnemite, Electrico, Electrico
+83, Farfetch'd, Basico, Normal, Volador
+84, Doduo, Basico, Normal, Volador
+85, Dodrio, Primera Evolucion, Doduo, Normal, Volador
+86, Seel, Basico, Agua, Agua
+87, Dewgong, Primera Evolucion, Seel, Agua, Hielo
+88, Grimer, Basico, Veneno, Veneno
+89, Muk, Primera Evolucion, Grimer, Veneno, Veneno
+90, Shellder, Basico, Agua, Agua
+91, Cloyster, Primera Evolucion, Shellder, Agua, Hielo
+92, Gastly, Basico, Fantasma, Veneno
+93, Haunter, Primera Evolucion, Gastly, Fantasma, Veneno
+94, Gengar, Segunda Evolucion, Gastly, Fantasma, Veneno
+95, Onix, Basico, Roca, Tierra
+96, Drowzee, Basico, Psiquico, Psiquico
+97, Hypno, Primera Evolucion, Drowzee, Psiquico, Psiquico
+98, Kraby, Basico, Agua, Agua
+99, Kingler, Primera Evolucion, Kraby, Agua, Agua
+100, Voltorb, Basico, Electrico, Electrico
+101, Electrode, Primera Evolucion, Voltorb, Electrico, Electrico
+102, Exeggcute, Basico, Planta, Psiquico
+103, Exeggutor, Primera Evolucion, Exeggcute, Planta, Psiquico
+104, Cubone, Basico, Tierra, Tierra
+105, Marowak, Primera Evolucion, Cubone, Tierra, Tierra
+106, Hitmonlee, Basico, Lucha, Lucha
+107, Hitmonchan, Basico, Lucha, Lucha
+108, Lickitung, Basico, Normal, Normal
+109, Koffing, Basico, Veneno, Veneno
+110, Weezing, Primera Evolucion, Koffing, Veneno, Veneno
+111, Ryhorn, Basico, Tierra, Roca
+112, Rhydon, Primera Evolucion, Ryhorn, Tierra, Roca
+113, Chansey, Basico, Normal, Normal
+114, Tangela, Basico, Planta, Planta
+116, Horsea, Basico, Agua, Agua
+117, Seadra, Primera Evolucion, Horsea, Agua, Agua
+118, Goldeen, Basico, Agua, Agua
+119, Seaking, Primera Evolucion, Goldeen, Agua, Agua
+120, Staryu, Basico, Agua, Agua
+121, Starmie, Primera Evolucion, Staryu, Agua, Psiquico
+122, Mr.Mime, Basico, Psiquico, Psiquico
+123, Scyther, Basico, Bicho, Volador
+124, Jynx, Basico, Hielo, Psiquico
+125, Electabuzz, Basico, Electrico, Electrico
+126, Magmar, Basico, Fuego, Fuego
+127, Pinsir, Basico, Bicho, Bicho
+128, Tauros, Basico, Normal, Normal
+129, Magikarp, Basico, Agua, Agua
+130, Gyarados, Primera Evolucion, Magikarp, Agua, Volador
+131, Lapras, Basico, Agua, Hielo
+132, Ditto, Basico, Normal, Normal
+137, Porygon, Basico, Normal, Normal
+138, Omanyte, Basico, Roca, Agua
+139, Omastar, Primera Evolucion, Omanyte, Roca, Agua
+140, Kabuto, Basico, Roca, Agua
+141, Kabutops, Primera Evolucion, Kabuto, Roca, Agua
+142, Aerodactyl, Basico, Roca, Volador
+143, Snorlax, Basico, Normal, Normal
+144, Articuno, Basico, Hielo, Volador
+145, Zapdos, Basico, Electrico, Volador
+146, Moltres, Basico, Fuego, Volador
+147, Dratini, Basico, Dragon, Dragon
+148, Dragonair, Primera Evolucion, Dratini, Dragon, Dragon
+149, Dragonite, Segunda Evolucion, Dratini, Dragon, Volador
+150, Mewtwo, Basico, Psiquico, Psiquico
+151, Mew, Basico, Psiquico, Psiquico
